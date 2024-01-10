@@ -10,3 +10,13 @@ It is the simple android application to manage tasks and to-do lists.
 4.Setting reminders 
 5.Setting priorities.
 
+# Getting Started
+
+
+1. install Android Studio.
+2. Extract the Zip folder.
+3. Open the project in Android Studio.
+4. Minimum SDK level 26
+5. Build and run the app.
+
+
